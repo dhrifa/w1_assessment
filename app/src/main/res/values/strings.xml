@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Week1_assessment</string>
+    <string name="logo">GreenFlag</string>
+    <string name="logo_description">No Matter What</string>
+    <string name="customer_line1">GreenFlag customers can create an account to access</string>
+
+    <string name="task_line1">Car health updates</string>
+    <string name="task_line2">Request a rescue online</string>
+    <string name="task_line3">Policy information</string>
+
+    <string name="btn_create">Create an account</string>
+    <string-array name="tasks_list">
+        <item>
+            Car health updates
+        </item>
+        <item>
+            Request a rescue online
+        </item>
+        <item>
+            Policy information
+        </item>
+    </string-array>
+
+<!--    LogInActivity strings -->
+    <string name="tv_email_address">Email Address</string>
+    <string name="tv_password">Create password</string>
+    <string name="tv_repeat_password">Repeat password</string>
+    <string name="tv_info_password">Your password should have a minimum of 8
+    characters and contains at least one
+    number, one uppercase and one lower
+    case letter. You can use special characters.</string>
+    <string name="txt_error_email">An account already exists for this email address</string>
+    <string name="txt_err_match_password">Your passwords don\'t match</string>
+    <string name="txt_err_invalid_password">One of the passwords you entered wasn\'t valid</string>
+    <string name="btn_next">Next</string>
+    <string name="pwd_hint">See the creteria</string>
+
+
+</resources>
